@@ -24,3 +24,4 @@
 - I structured the code following coherent patterns, including screen categories, components, styles and, utilities.
 - All the recommendations considering development of React Native were taken into consideration.
 - Therefore, to enhance my program, I added proper error control, accessibility features and any other fromality to ensure the creation of a powerful application.
+![WhatsApp Image 2024-06-26 at 23 53 29_95736f13](https://github.com/kissiwaa-agyemang/rn-assignment5-11333179/assets/150914504/a0ef1737-436a-4f40-bffb-f82d6697fbda)
