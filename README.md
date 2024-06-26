@@ -1,4 +1,4 @@
-# rn-assignment5-11333179Sure, 
+# rn-assignment5-11333179
 . Project Setup:
 - First of all, I created a new React Native app by creating a new project with Expo or with the minimal set up for a React Native project.
 - I set up all dependencies for the application starting with the React Navigation and any other dependencies that may be needed for the application.
